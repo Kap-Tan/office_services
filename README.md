@@ -10,7 +10,7 @@ Open `index.html` in a modern browser. No build step or package installation is 
 
 1. Push this project to the repository's `main` branch.
 2. In **Settings → Pages**, select **Deploy from a branch**, choose `main` and the root (`/`) folder, then save.
-3. GitHub Pages will publish the static site and update it when new commits reach `main`.
+3. GitHub Pages publishes from `main` at the repository root and updates the site when new commits reach `main`.
 
 ## Data and privacy
 
