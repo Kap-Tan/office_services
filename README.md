@@ -8,9 +8,9 @@ Open `index.html` in a modern browser. No build step or package installation is 
 
 ## Publish with GitHub Pages
 
-1. Create a GitHub repository and push this project to its `main` branch.
-2. In the repository, open **Settings → Pages** and select **GitHub Actions** as the build and deployment source.
-3. Each push to `main` will publish the static site. The workflow is in `.github/workflows/pages.yml`.
+1. Push this project to the repository's `main` branch.
+2. In **Settings → Pages**, select **Deploy from a branch**, choose `main` and the root (`/`) folder, then save.
+3. GitHub Pages will publish the static site and update it when new commits reach `main`.
 
 ## Data and privacy
 
